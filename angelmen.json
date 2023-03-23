@@ -13,6 +13,6 @@
       "MAX_ADS_DISPLAY_IN_ONE_MINUTE": 3,
       "MAX_TIME_IN_SECONDS": 60,
       "URL_NOTIF": "x",
-      "MESSAGE_NOTIF": "x",     
+      "MESSAGE_NOTIF": "xxx",     
       "URL_PRIVACY_POLICY": "https://sites.google.com/view/15heryapp-privacypolicy?pli=1"
 }
