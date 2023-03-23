@@ -1,0 +1,22 @@
+{
+      "ADS_ADMOB": "ADMOB",
+      "ADS_STARTAPP": "STARTAPP",
+      "ADS_PRIORITY_NO_1": "ADS_ADMOB",
+      "ADS_PRIORITY_NO_2": "ADS_STARTAPP",
+      "ADS_PUB_ID": "pub-3940256099942544",
+      "ADS_APP_ID": "ca-app-pub-3940256099942544~3347511713",
+      "ADS_ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+      "ADS_ADMOB_INTERSTITIALS": "ca-app-pub-3940256099942544/1033173712",
+      "ADS_ADMOB_OPENADS": "ca-app-pub-3940256099942544/3419835294",
+      "MAX_ITEM_SHOW_LISTNATIVE": 5,
+      "ITEMS_PER_AD": 7,
+      "NATIVE_ADS_USE_BUTTON_ACTION": false,
+      "ADS_STARTAPP_APPID": "201669628",
+      "ADS_MERGE": 0,
+      "MOD_NUM": 5,
+      "MAX_ADS_DISPLAY_IN_ONE_MINUTE": 3,
+      "MAX_TIME_IN_SECONDS": 60,
+      "URL_NOTIF": "x",
+      "MESSAGE_NOTIF": "x",     
+      "URL_PRIVACY_POLICY": "https://sites.google.com/view/15heryapp-privacypolicy?pli=1"
+}
